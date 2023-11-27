@@ -1,5 +1,0 @@
-Task,Node,Node,Raylet
-Resource Requirements,Resource Capacity,Status,Classification
-num_cpus=3,4 CPUs,Idle node,Feasible and Available
-num_cpus=3,4 CPUs,2 CPUs tied up running another task,Feasible but Not Available
-num_cpus=3,2CPUs,Idle node,Infeasible
